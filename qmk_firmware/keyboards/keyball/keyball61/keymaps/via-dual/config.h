@@ -39,6 +39,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define POINTING_DEVICE_AUTO_MOUSE_ENABLE
 // #define AUTO_MOUSE_DEFAULT_LAYER 2
 
-// 左ballでスクロール、右ballでポインターを動かす
-#define SPLIT_POINTING_ENABLE
-#define POINTING_DEVICE_COMBINED
+// スクロールスナップを無効化
+#define KEYBALL_SCROLLSNAP_ENABLE 0
