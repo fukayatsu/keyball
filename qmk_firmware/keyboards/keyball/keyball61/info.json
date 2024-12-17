@@ -5,7 +5,7 @@
         "device_version": "1.0.0"
     },
     "manufacturer": "Yowkees",
-    "keyboard_name": "Keyball61",
+    "keyboard_name": "Keyball61-Dual",
     "rgblight": {
         "driver": "ws2812"
     },
