@@ -40,4 +40,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define AUTO_MOUSE_DEFAULT_LAYER 2
 
 // スクロールスナップを無効化
-// #define KEYBALL_SCROLLSNAP_ENABLE 0
+#define KEYBALL_SCROLLSNAP_ENABLE 0
